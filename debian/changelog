@@ -1,6 +1,5 @@
-myhello (1.1) UNRELEASED; urgency=medium
+myhellow (1.0-1) UNRELEASED; urgency=medium
 
   * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
-  * UNRELEASED
 
- -- Nelson <nealson840123@gmail.com>  Tue, 21 Nov 2023 23:43:33 +0800
+ -- Nelson <nealson840123@gmail.com>  Tue, 21 Nov 2023 23:58:41 +0800
