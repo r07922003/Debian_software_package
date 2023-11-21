@@ -1,15 +1,15 @@
-Source: myhellow
+Source: myhello
 Section: unknown
 Priority: optional
-Maintainer: Nelson <nealson840123@gmail.com>
+Maintainer: Nelson <nelson@unknown>
 Build-Depends: debhelper-compat (= 13)
 Standards-Version: 4.6.0
 Homepage: <insert the upstream URL, if relevant>
-#Vcs-Browser: https://salsa.debian.org/debian/myhellow
-#Vcs-Git: https://salsa.debian.org/debian/myhellow.git
+#Vcs-Browser: https://salsa.debian.org/debian/myhello
+#Vcs-Git: https://salsa.debian.org/debian/myhello.git
 Rules-Requires-Root: no
 
-Package: myhellow
+Package: myhello
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}
 Description: <insert up to 60 chars description>
