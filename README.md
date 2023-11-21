@@ -12,6 +12,7 @@ git commit -m "Towards a debian package"
 
 gbp buildpackage --git-ignore-new
 
+git remote add launchpad lp:~nealson840123/+git/Debian_software_package
 
 sudo add-apt-repository ppa:nealson840123/hellow
 
