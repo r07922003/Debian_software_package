@@ -1,6 +1,6 @@
 Document: hello
 Title: Debian hello Manual
-Author: <insert document author here>
+Author: 2023 Nelson <nealson840123@gmail.com>
 Abstract: This manual describes what hello is
  and how it can be used to
  manage online manuals on Debian systems.

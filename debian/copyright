@@ -4,8 +4,7 @@ Upstream-Contact: <preferred name and address to reach the upstream project>
 Source: <url://example.com>
 
 Files: *
-Copyright: <years> <put author's name and email here>
-           <years> <likewise for another author>
+Copyright: 2023 Nelson <nealson840123@gmail.com>
 License: <special license>
  <Put the license of the package here indented by 1 space>
  <This follows the format of Description: lines in control file>

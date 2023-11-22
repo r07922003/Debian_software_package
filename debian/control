@@ -12,5 +12,5 @@ Rules-Requires-Root: no
 Package: hello
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}
-Description: <insert up to 60 chars description>
+Description: just for test
  <insert long description, indented with spaces>
