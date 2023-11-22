@@ -1,1 +1,1 @@
-echo "this is a test from Liu Qing"
+echo "this is a test from Liu Qing" >&2
